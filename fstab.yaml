@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1Ic_W7R-_wkHC-GFnHssgBy7S0smOkREH
+  /: https://drive.google.com/drive/folders/1d71i2px84t3-O2wJDUO6RmYq81Der_t5
     url: https://content.da.live/{org}/{site}/
     type: markup
 
